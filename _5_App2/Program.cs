@@ -25,6 +25,10 @@ namespace _5_App2
             Console.WriteLine($"{sayi1} sayısı ile {sayi2} sayısının toplamı = {sonuc}");
            //Console.WriteLine(sayi1 + " sayısı ile " + sayi2 + " sayısının toplamı = " + sonuc);
 
+            
+            // projemi paylaştım, ...sizinle....
+
+
             Console.WriteLine("Kapatmak için bir tuşa basınız");
             Console.ReadKey();
         }
