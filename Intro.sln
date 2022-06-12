@@ -27,21 +27,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_6_Condition_if_Else_Elseif
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_6_Condition_ifOrn", "_6_Condition_ifOrn\_6_Condition_ifOrn.csproj", "{528F65A9-ED6A-43C4-B1ED-23BC7892DED9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_SwitchCase", "_7_SwitchCase\_7_SwitchCase.csproj", "{23015834-824D-425E-B4CB-7F7CDC773062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_7_SwitchCase", "_7_SwitchCase\_7_SwitchCase.csproj", "{23015834-824D-425E-B4CB-7F7CDC773062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_SwitchCaseOrnek", "_7_SwitchCaseOrnek\_7_SwitchCaseOrnek.csproj", "{1E465584-4037-4997-B6A7-C5E2A9E5C94B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_7_SwitchCaseOrnek", "_7_SwitchCaseOrnek\_7_SwitchCaseOrnek.csproj", "{1E465584-4037-4997-B6A7-C5E2A9E5C94B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_SwitchCaseOrnek1", "_7_SwitchCaseOrnek1\_7_SwitchCaseOrnek1.csproj", "{A8ED3FB9-7F81-4420-9F8B-22C6E8455087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_7_SwitchCaseOrnek1", "_7_SwitchCaseOrnek1\_7_SwitchCaseOrnek1.csproj", "{A8ED3FB9-7F81-4420-9F8B-22C6E8455087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops", "_8_Loops\_8_Loops.csproj", "{870DD7C5-D4AC-4224-AEB2-33C93D09EE81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_8_Loops", "_8_Loops\_8_Loops.csproj", "{870DD7C5-D4AC-4224-AEB2-33C93D09EE81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek1", "_8_Loops_Ornek1\_8_Loops_Ornek1.csproj", "{F8878144-787B-482C-BA49-E95BA7C578AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_8_Loops_Ornek1", "_8_Loops_Ornek1\_8_Loops_Ornek1.csproj", "{F8878144-787B-482C-BA49-E95BA7C578AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek2", "_8_Loops_Ornek2\_8_Loops_Ornek2.csproj", "{097A35D5-F89F-4B71-9116-9D8C619EFD9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_8_Loops_Ornek2", "_8_Loops_Ornek2\_8_Loops_Ornek2.csproj", "{097A35D5-F89F-4B71-9116-9D8C619EFD9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek3", "_8_Loops_Ornek3\_8_Loops_Ornek3.csproj", "{3805405A-1283-4366-BF8C-BF7F0761B857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_8_Loops_Ornek3", "_8_Loops_Ornek3\_8_Loops_Ornek3.csproj", "{3805405A-1283-4366-BF8C-BF7F0761B857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek4", "_8_Loops_Ornek4\_8_Loops_Ornek4.csproj", "{CBEDE433-FE68-4556-A7D2-C504EB37CBCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_8_Loops_Ornek4", "_8_Loops_Ornek4\_8_Loops_Ornek4.csproj", "{CBEDE433-FE68-4556-A7D2-C504EB37CBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek5", "_8_Loops_Ornek5\_8_Loops_Ornek5.csproj", "{E666CE19-40BF-412A-BE34-8EE08BCCC2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek6", "_8_Loops_Ornek6\_8_Loops_Ornek6.csproj", "{549985FD-F209-4B58-AC27-4D477060BA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek7", "_8_Loops_Ornek7\_8_Loops_Ornek7.csproj", "{4B4CFB3F-1D2B-4F68-A3D4-5D8A1FEBA413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_8_Loops_Ornek8", "_8_Loops_Ornek8\_8_Loops_Ornek8.csproj", "{9DCDFB60-C59B-4BDD-8D18-EA705B39EB90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +137,22 @@ Global
 		{CBEDE433-FE68-4556-A7D2-C504EB37CBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBEDE433-FE68-4556-A7D2-C504EB37CBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBEDE433-FE68-4556-A7D2-C504EB37CBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E666CE19-40BF-412A-BE34-8EE08BCCC2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E666CE19-40BF-412A-BE34-8EE08BCCC2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E666CE19-40BF-412A-BE34-8EE08BCCC2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E666CE19-40BF-412A-BE34-8EE08BCCC2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549985FD-F209-4B58-AC27-4D477060BA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549985FD-F209-4B58-AC27-4D477060BA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549985FD-F209-4B58-AC27-4D477060BA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549985FD-F209-4B58-AC27-4D477060BA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4CFB3F-1D2B-4F68-A3D4-5D8A1FEBA413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4CFB3F-1D2B-4F68-A3D4-5D8A1FEBA413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4CFB3F-1D2B-4F68-A3D4-5D8A1FEBA413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4CFB3F-1D2B-4F68-A3D4-5D8A1FEBA413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCDFB60-C59B-4BDD-8D18-EA705B39EB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCDFB60-C59B-4BDD-8D18-EA705B39EB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCDFB60-C59B-4BDD-8D18-EA705B39EB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCDFB60-C59B-4BDD-8D18-EA705B39EB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
